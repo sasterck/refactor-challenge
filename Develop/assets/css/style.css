@@ -153,17 +153,9 @@ p {
     max-height: 200px;
 }
 
-.search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
+/* Removed element class that specified "social media, online, search engine etc" and changed to only h2 to reduce clutter  */
 
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing h2 {
+h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
